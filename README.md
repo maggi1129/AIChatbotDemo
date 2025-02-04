@@ -1,6 +1,6 @@
 # DSA Chatbot
 
-A Python-based chatbot that helps users learn Data Structures and Algorithms (DSA) concepts through interactive conversations. The chatbot uses the OpenAI API through LangDB to provide detailed explanations and answers to DSA-related questions.
+A Python-based chatbot that helps users learn Data Structures and Algorithms (DSA) concepts through interactive conversations. The chatbot uses the OpenAI API through [LangDB.ai](https://langdb.ai/) to provide detailed explanations and answers to DSA-related questions.
 
 ## Features
 
@@ -24,7 +24,7 @@ Before running the chatbot, make sure you have:
 1. Clone this repository or download the source code:
 
 ```bash
-git clone https://github.com/yourusername/dsa-chatbot.git
+git clone https://github.com/maggi1129/AIChatbotDemo.git
 ```
 
 2. Navigate to the project directory:
@@ -110,8 +110,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- OpenAI for the API
-- LangDB for API access
+- OpenAI for the SDK
+- [LangDB.ai](https://langdb.ai/) for AI Gateway
 - Contributors and maintainers
 
 ## Support
